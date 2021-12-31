@@ -53,7 +53,8 @@ After a conversation with Evanston Hospital regarding the reasons why its profit
 Here I proceeded with the root cause analysis using the Issue Tree Framework - <br>
 The Tree is shown in the figure below. <br>
 
-***** ' ****** ' ****** '
+
+![Profits_havent_increased_for_Evanston_Hospital](https://user-images.githubusercontent.com/30548563/147801868-e033af3d-1d2e-45c1-a776-d530219f05fd.png)
 
 Some of the high priority questions that arise from Issue Tree Framework that Evanston Hospital has to answer are:
 - 1) Are you aware of the measures on which the ratings are generated?
