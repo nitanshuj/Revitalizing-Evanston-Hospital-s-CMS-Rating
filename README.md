@@ -1,4 +1,4 @@
-# Capstone Project 1 - Suggestions for CMS Rating Improvement for Evanston Hospital
+# Revitalizing Evanston Hospital's CMS Rating: Innovative Solutions and Recommendations
 
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
